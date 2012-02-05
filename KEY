@@ -3,7 +3,7 @@ As=Agni Sera (Kripalu)
 Ash=Agni Shodana (Kripalu)
 Am=Amaroli
 N=Netti
-N=Nauli
+Na=Nauli
 B=Bhastrika
 Kb=Khapala Bhati
 M=Meditation
@@ -19,6 +19,7 @@ YcV#=Vinyasa class
 YcH#=Hatha class
 YcS#=Sivananda class
 YcF#=Forrest class
+YcP#="Power Yoga" class
 #=1,bas;2,int;3,adv;4,vadv
 Ye=Unspecifed yoga exercises
 Yh=Yoga Headstand
@@ -44,5 +45,8 @@ Q5=Qigong Set 5 (origin unspecified)
 Q6=Qigong Set 5 (origin unspecified)
 Q7=Qigong Set 5 (origin unspecified)
 J=Jogging
+_fL = Sitting in full lotus
+_hL = Sitting in half lotus
+_ss = Sitting in Sidasana
 
 Numbers may refer to number of times, number of sets, number of minutes, or none of the above.
